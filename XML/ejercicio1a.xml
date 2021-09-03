@@ -6,4 +6,9 @@
     <apellido>Barbero</apellido>
     <direccion>Calle de Los Andes, 45</direccion>
   </ficha>
+  <ficha2>
+  <telefono>+50322548963</telefono>  
+  <email>rosalioalfre2@gmail.com</email> 
+  <website>rosalio.com.sv</website>
+  </ficha2>
 </fichero>

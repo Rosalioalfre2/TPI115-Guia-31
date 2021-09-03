@@ -1,0 +1,5 @@
+var ejemplo1 = JSON.parse('{"fichero":{"ficha":{"@id":"1","@fechaingreso":"1/11/2012","nombre":"Antonio","apellido":"Barbero","direccion":"Calle de Los Andes, 45"},"ficha2":{"telefono":"+50322548963","email":"rosalioalfre2@gmail.com","website":"rosalio.com.sv"},"ficha3":{"documentacion":{"dui":"06050475-1","isss":"54697-a","afp":"894er5"}}}}')
+
+var ejemplo1JSON = JSON.stringify(ejemplo1);
+
+"{\"fichero\":{\"ficha\":{\"@id\":\"1\",\"@fechaingreso\":\"1/11/2012\",\"nombre\":\"Antonio\",\"apellido\":\"Barbero\",\"direccion\":\"Calle de Los Andes, 45\"},\"ficha2\":{\"telefono\":\"+50322548963\",\"email\":\"rosalioalfre2@gmail.com\",\"website\":\"rosalio.com.sv\"},\"ficha3\":{\"documentacion\":{\"dui\":\"06050475-1\",\"isss\":\"54697-a\",\"afp\":\"894er5\"}}}}"
