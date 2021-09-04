@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h1, h2{
+    border: 5px black solid;
+    color: darkblue;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    margin-left: 15%;
+}
+
+div{
+    border: 3px black dashed;
+    padding: 25px;
+    margin: 0% 15% 0% 15%;
+    font-size: 1.3em;
+    padding-left: 5%;
+}
+
+a:hover, a:visited:hover{
+    background-color: maroon;
+    color: white;
+}
+
+a:visited{
+    color: olive;
+}

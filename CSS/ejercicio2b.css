@@ -1,0 +1,26 @@
+pais{
+	background-color: darkolivegreen;	
+	border: white 2px dotted;
+	color: yellowgreen;
+	font-size: 25px;
+}
+
+departamento{
+	font-size: 35px;
+	color: wheat;
+	font-family: serif;
+	border: 5px blue dashed;
+}
+
+departamento2{
+	background-color: blue;
+	font-size: 50px;
+	color: pink;
+	font-family: cursive;
+}
+
+departamento3{
+	background-color: darksalmon;
+	font-size: 40px;
+	color: lime;
+}

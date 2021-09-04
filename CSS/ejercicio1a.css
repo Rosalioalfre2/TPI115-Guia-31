@@ -1,0 +1,27 @@
+fichero{
+	background-color: lightblue;
+	/*display: flex;*/
+	border: blue 2px dashed;
+}
+
+ficha{
+	display: block;
+}
+
+nombre{
+	background-color: red;
+	color: white;
+	font-size: 25px;
+}
+
+apellido{
+	color: greenyellow;
+	font-size: 25px;
+}
+
+ficha2{
+	background-color: lightpink;
+	font-size: 30px;
+	color: blue;
+	display: block;
+}
